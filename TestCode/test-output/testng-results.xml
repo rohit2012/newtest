@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10846" started-at="2017-02-16T01:35:51Z" finished-at="2017-02-16T01:36:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10846" started-at="2017-02-16T01:35:51Z" finished-at="2017-02-16T01:36:02Z">
+      <class name="webdriver2.FirstTest">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:webdriver2.FirstTest@6574b225]" name="setUP" is-config="true" duration-ms="9487" started-at="2017-02-16T07:05:51Z" finished-at="2017-02-16T07:06:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="runTest()[pri:0, instance:webdriver2.FirstTest@6574b225]" name="runTest" duration-ms="424" started-at="2017-02-16T07:06:01Z" finished-at="2017-02-16T07:06:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:webdriver2.FirstTest@6574b225]" name="tearDown" is-config="true" duration-ms="918" started-at="2017-02-16T07:06:01Z" finished-at="2017-02-16T07:06:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- webdriver2.FirstTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
