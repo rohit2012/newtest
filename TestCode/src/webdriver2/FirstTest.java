@@ -22,7 +22,7 @@ public class FirstTest {
 	@Test
 	public void runTest()
 	{
-		driver.findElement(By.name("q")).sendKeys("selenium");
+		driver.findElement(By.name("q")).sendKeys("selenium 3");
 	}
 	
 	@AfterMethod
